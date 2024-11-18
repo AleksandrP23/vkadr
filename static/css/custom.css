@@ -213,8 +213,6 @@
   display:inline-block;
 }
 
-
-
 @media screen and (min-width: 992px) {
   
   .b-service-lg_card{
@@ -279,9 +277,7 @@
   .b-clients-gallery-grid__item{
     flex: 0 0 calc( 100% / 6  -  12px * 5 / 6 );
   }
-
 }
-
 
 /* Founder */
 .b-founder-info{}
@@ -408,10 +404,7 @@
   .b-founder-info__content{
     flex: 0 0 calc(67% - 15px);
   }
-
-
 }
-
 
 /* Online Meet */
 .a-meet-pretext{
@@ -559,11 +552,6 @@
   background-color: #cd171e;
 }
 
-
-@media screen and (min-width: 992px) {
-  
-}
-
 @media screen and (min-width: 1200px) {
 
   .b-spasibo__caption{
@@ -583,9 +571,6 @@
     margin-bottom: 16px;
   }
 }
-
-
-
 
 .b-social-widget{
   position: fixed; bottom: 10px; right: 10px;
@@ -673,7 +658,6 @@
   .b-social-widget{ right: 65px; bottom: 50px; }
 }
 
-
 @keyframes btn-pulsate {
     0% {
         transform: scale(1,1)
@@ -687,10 +671,6 @@
         transform: scale(1,1)
     }
 }
-
-
-
-
 
 /* file upload */
 .file-upload{
